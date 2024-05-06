@@ -1,0 +1,8 @@
+export const contractAddress = {
+  "WBNB": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+  "Prince": "0x710052dec221Ec0f6bc1e5b95852801118E9Cfab",
+  "Cake": "0xFa60D973F7642B748046464e165A65B7323b0DEE",
+  "PancakeFactory": "0x2dd168a857d8F34a9d43B379aF7f1cFaA36f0b9D",
+  "PrinceLP": "0xf4bC61eACBc604fF5cD7659c4e56417aA2D7fd82",
+  "PancakeRouter": "0x79A3D080A7308FF7Fa6186e86208d45C4F29ce8e"
+};
